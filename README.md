@@ -9,12 +9,18 @@ Implemented a Basic Address Book in C to manage contacts with Name, Mobile Numbe
  • View Contacts – Display all saved contacts in one list
  • Persistent Storage – Changes are saved to and loaded from a file
  • Safe Exit – Close the application with data integrity maintained
+
+
 📁 File-Based Persistence
  The system loads and writes contact data seamlessly from file storage, ensuring all modifications persist across sessions.
+
+
 📜 Validation & Robustness
  • Validates 10-digit mobile numbers
  • Validates email address format
  • Provides clear prompts and handles user errors gracefully
+
+
 🧠 Skills Gained:
  • C programming: structures, Function pointers, arrays
  • File I/O: fopen/fclose, fscanf/fprintf for data persistence
