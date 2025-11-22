@@ -1,8 +1,8 @@
-🗂️ Address Book Management System 
+## 🗂️ Address Book Management System 
 
 Implemented a Basic Address Book in C to manage contacts with Name, Mobile Number, and Email. Features include add, search, edit, delete, and save & exit, allowing users to efficiently manage and store contact information permanently.
 
-⚙ Key Features:
+## ⚙ Key Features:
  
  • Add Contact – Save a new contact with Name, Mobile Number & Email Address
  
@@ -19,12 +19,12 @@ Implemented a Basic Address Book in C to manage contacts with Name, Mobile Numbe
  • Safe Exit – Close the application with data integrity maintained
 
 
-📁 File-Based Persistence
+## 📁 File-Based Persistence
  
  The system loads and writes contact data seamlessly from file storage, ensuring all modifications persist across sessions.
 
 
-📜 Validation & Robustness
+## 📜 Validation & Robustness
  
  • Validates 10-digit mobile numbers
  
@@ -33,7 +33,7 @@ Implemented a Basic Address Book in C to manage contacts with Name, Mobile Numbe
  • Provides clear prompts and handles user errors gracefully
 
 
-🧠 Skills Gained:
+## 🧠 Skills Gained:
  
  • C programming: structures, Function pointers, arrays
  
@@ -43,7 +43,7 @@ Implemented a Basic Address Book in C to manage contacts with Name, Mobile Numbe
  
  • Input validation and robust error handling
 
-💬 Challenges Faced & Overcome:
+## 💬 Challenges Faced & Overcome:
 
  • Ensuring reliable file save/update operations without corrupting data ✅
  
