@@ -2,12 +2,19 @@
 Implemented a Basic Address Book in C to manage contacts with Name, Mobile Number, and Email. Features include add, search, edit, delete, and save & exit, allowing users to efficiently manage and store contact information permanently.
 
 ⚙ Key Features:
+ 
  • Add Contact – Save a new contact with Name, Mobile Number & Email Address
+ 
  • Search Contact – Find contacts by Name, Mobile or Email
+ 
  • Edit Contact – Update existing contact details
+ 
  • Delete Contact – Remove unwanted entries
+ 
  • View Contacts – Display all saved contacts in one list
+ 
  • Persistent Storage – Changes are saved to and loaded from a file
+ 
  • Safe Exit – Close the application with data integrity maintained
 
 
